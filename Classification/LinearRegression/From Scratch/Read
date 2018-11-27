@@ -1,7 +1,0 @@
-data.csv is the dataset file in csv(Comma-separated values) format.
-
-LinearRegression.ipynb is the code file.
-
-Download both the files and put them in same directory. 
-
-After that run .ipynb file on Jupyter notebook.
